@@ -1,2 +1,2 @@
-# test
-test demo
+# basic
+command demo
